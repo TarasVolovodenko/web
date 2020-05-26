@@ -1,6 +1,3 @@
-# template Vue
-# project1
-
 ## Project setup
 ```
 npm install
