@@ -1,0 +1,48 @@
+{
+	"name": "templateVues",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"serve": "vue-cli-service serve",
+		"dev": "vue-cli-service serve",
+		"build": "vue-cli-service build",
+		"lint": "vue-cli-service lint --fix"
+	},
+	"dependencies": {
+		"@vue/cli": "^4.3.1",
+		"axios": "^0.19.2",
+		"bootstrap": "^4.5.0",
+		"bootstrap-vue": "^2.15.0",
+		"core-js": "^3.6.4",
+		"jquery": "^3.5.0",
+		"mapbox-gl": "^1.10.1",
+		"mdbootstrap": "^4.16.0",
+		"mdbvue": "^6.7.0",
+		"vue": "^2.6.11",
+		"vue-agile": "^1.1.0",
+		"vue-axios": "^2.1.5",
+		"vue-carousel": "^0.18.0",
+		"vue-resource": "^1.5.1",
+		"vue-router": "^3.1.5",
+		"vue-slick": "^1.1.15",
+		"vue-slick-carousel": "^1.0.5"
+	},
+	"devDependencies": {
+		"@fortawesome/fontawesome-free": "^5.13.0",
+		"@vue/cli-plugin-babel": "~4.2.0",
+		"@vue/cli-plugin-eslint": "~4.2.0",
+		"@vue/cli-plugin-router": "~4.2.0",
+		"@vue/cli-service": "~4.2.0",
+		"@vue/eslint-config-standard": "^5.1.0",
+		"babel-eslint": "^10.0.3",
+		"eslint": "^6.7.2",
+		"eslint-plugin-import": "^2.20.1",
+		"eslint-plugin-node": "^11.0.0",
+		"eslint-plugin-promise": "^4.2.1",
+		"eslint-plugin-standard": "^4.0.0",
+		"eslint-plugin-vue": "^6.1.2",
+		"node-sass": "^4.12.0",
+		"sass-loader": "^8.0.2",
+		"vue-template-compiler": "^2.6.11"
+	}
+}

@@ -1,0 +1,5 @@
+flask
+geoalchemy2
+sqlalchemy
+shapely
+psycopg2
