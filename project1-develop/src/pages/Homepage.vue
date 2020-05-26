@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import HomeHeader from '@/layout/home-headertd'
+import HomeHeader from '@/layout/home-header'
 import HomeContent from '@/layout/home-content'
 import Footer from '@/layout/footertd'
 export default {
